@@ -8,6 +8,12 @@ export default function Home() {
       className="w-full h-full opacity-25 object-cover object-center" 
       src={bg}
       alt="No image found"/>
+
+      <div> 
+        
+      </div>
+
+      
     </main>
   );
 }
